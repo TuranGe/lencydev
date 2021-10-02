@@ -6,15 +6,14 @@
 
 <div align="center">
   <br>
-  <a href="https://discord.com/users/842600159682363433" target="_blank"> <img src="https://img.shields.io/badge/-Léncy-5865f2?style=flat-square&logo=discord&logoColor=white"/>
-  <a href="https://discord.gg/7unJhRc6Rn" target="_blank"> <img src="https://img.shields.io/badge/-My Discord Server-5865f2?style=flat-square&logo=discord&logoColor=white"/>
+  <a href="https://discord.gg/7unJhRc6Rn" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
 
 <div align="center">
   <br>
-  <img alt="JavaScript" align="center" src="https://img.shields.io/badge/JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-  <img alt="HTML5" align="center" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img alt="CSS3" align="center" src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" align="center" src="https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="HTML5" align="center" src="https://img.shields.io/badge/HTML5-e96228?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" align="center" src="https://img.shields.io/badge/CSS3-2862e9?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
 <h1 align="center">Github Stats</h1>

@@ -12,3 +12,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lencydev&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
 
+<h1 align="center"></h1>
+
+<div align="center">
+  <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+  <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img alt="CSS" align="center" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=white"/>
+</div>

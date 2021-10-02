@@ -16,6 +16,6 @@
 
 <div align="center">
   <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html&logoColor=white"/>
   <img alt="CSS" align="center" src="https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>

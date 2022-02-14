@@ -6,7 +6,9 @@
 
 <div align = "center">
   <br>
-  <img src="https://lanyard.cnrad.dev/api/472162226686394371">
+  <a href = "https://discord.com/users/472162226686394371" />
+    <img src = "https://lanyard.cnrad.dev/api/472162226686394371" />
+  </a>
 </div>
 
 <div align="center">

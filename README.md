@@ -4,16 +4,10 @@
 
 <div align = "center" />
   <img src = "https://komarev.com/ghpvc/?username=lencydev&color=5865f2" />
-</div>
-
-<div align = "center" />
   <br>
   <a href = "https://discord.com/users/472162226686394371" target = "_blank" />
     <img src = "https://lanyard.cnrad.dev/api/472162226686394371" />
   </a>
-</div>
-
-<div align="center" />
   <br>
   <a href = "https://discord.gg/7unJhRc6Rn" target = "_blank" />
     <img src = "https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" />

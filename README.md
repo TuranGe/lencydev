@@ -9,8 +9,8 @@
     <img src = "https://lanyard.cnrad.dev/api/472162226686394371" />
   </a>
   <br>
-  <a href = "https://discord.gg/7unJhRc6Rn" target = "_blank" />
-    <img src = "https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href = "https://discord.gg/rXV7Fw9PNs" target = "_blank" />
+    <img src = "https://img.shields.io/badge/-Discord Server-5865f2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
